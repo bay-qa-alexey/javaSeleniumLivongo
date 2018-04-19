@@ -6,7 +6,7 @@ Project created in Intellij IDEA with Java, Selenium Webdriver, Maven, TestNG
 
 * Have [java](http://www.oracle.com/technetwork/java/javase/downloads/index.html) installed
 * Have [maven](http://maven.apache.org/) installed
-
+* Have [chrome](https://www.google.com/chrome/) installed
 
 ## Execute automation tests ##
 clone this repository to your machine and run following command from the project folder
