@@ -1,0 +1,7 @@
+pageObjects/SuppliesPage.class
+pageObjects/HomePage.class
+pageObjects/JoinPage.class
+pageObjects/CoveragePage.class
+driverSetup/DriverSetup.class
+tests/LivongoTest.class
+driverSetup/DriverSetup$Browser.class
